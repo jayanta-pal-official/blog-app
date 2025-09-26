@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+@media only screen and (max-width: 767px) {
+  .landing_inner .up_card {
+    margin-top: 12px;
+  }
+  .scroll_sec .article_text {
+    margin-top: 40px;
+  }
+  .landing_inner .heading_back .head_image {
+    min-height: 0;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .landing_inner .up_card {
+    margin-top: 12px;
+  }
+  
+}
